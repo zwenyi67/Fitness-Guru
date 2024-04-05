@@ -108,7 +108,7 @@
                                     @enderror
                                 </div>
                                 <div>
-                                    <button type="submit" class="form-control btn btn-primary py-2 fw-semibold">REGISTER</button>
+                                    <button type="submit" class="btn btn-dark py-2 px-4 fw-semibold">REGISTER</button>
                                 </div>
                             </form>
                         </div>

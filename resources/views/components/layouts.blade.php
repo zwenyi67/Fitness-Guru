@@ -201,13 +201,15 @@
                  <div class="col-md-3">
                     <h3>Link Menu</h3>
                     <ul class="link_menu">
-                       <li><a href="#">Home</a></li>
-                       <li><a href="about.html"> About</a></li>
-                       <li><a href="service.html">Services</a></li>
-                       <li><a href="news.html">Blogs</a></li>
-                       <li><a href="trainer.html">Trainer</a></li>     
-                       <li><a href="gallery.html">Gallery</a></li>
-                       <li><a href="contact.html">Contact</a></li>
+                     <li><a href="/">Home</a></li>
+                     <li><a href="/about"> About</a></li>
+                     <li><a href="/trainers">Trainers</a></li>
+                     <li><a href="/courses">Courses</a></li>
+                     <li><a href="/products">Products</a></li>
+                     <li><a href="/blogs">Blogs</a></li>
+                     <li><a href="/gallery">Gallery</a></li>
+                     <li><a href="/bmicalc">BMI Calculator</a></li>
+                     <li><a href="/contact">Contact</a></li>
                     </ul>
                  </div>
                  <div class=" col-md-5">
@@ -232,7 +234,7 @@
               <div class="container">
                  <div class="row">
                     <div class="col-md-10 offset-md-1">
-                       <p>© Fitness Guru 2023 </p>
+                       <p>copyright © Fitness Guru 2023 All Right Reserved </p>
                     </div>
                  </div>
               </div>

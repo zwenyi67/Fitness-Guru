@@ -17,7 +17,6 @@
                                 <th>Image</th>
                                 <th>Course</th>
                                 <th>Trainer</th>
-                                <th>Date of Birth</th>
                                 <th>Action</th>
                             </tr>
                         </thead>
@@ -58,9 +57,6 @@
                 },
                 {
                     "data": "trainer"
-                },
-                {
-                    'data': 'birth_date'
                 },
                 {
                     'data': 'action'

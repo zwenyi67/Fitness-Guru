@@ -219,12 +219,12 @@
     </div>
     <!-- end trainers -->
     <!-- gallery -->
-    <div class="gallery">
+    <div class="gallery mt-5">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="titlepage">
-                        <h2>Gallery</h2>
+                        <h2 class="text-black">Gallery</h2>
                         <p>The point of using Lorem Ipsum is that it has a more-or-less</p>
                     </div>
                 </div>

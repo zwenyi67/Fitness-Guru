@@ -37,7 +37,7 @@ class CourseController extends Controller
                 ->editColumn('trainer', function ($a) {
                     $trainer = "<img style='width: 90px; height: 90px; object-fit: cover; object-position: center;
                                     border-radius: 50%; '
-                                    src='/uploads/" . $a->trainer->image . "' alt='Photo'/>";
+                                    src='/storage/uploads/" . $a->trainer->image . "' alt='Photo'/>";
                     return $trainer;
                 })
                 ->addColumn('action', function ($a) {
@@ -69,7 +69,7 @@ class CourseController extends Controller
     public function show($id) {
 
          return view('admin.courses.detail',[
-            'trainer' => Course::findOrFail($id),
+            'course' => Course::findOrFail($id),
         ]);
      }
 
